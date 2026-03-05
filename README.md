@@ -1,1 +1,3 @@
-# Student-Survey
+This Power BI report analyzes the Student Survey dataset from a retail industry perspective to understand students' purchasing behavior across different product categories such as Video Games, Indoor Games, Toys, Books, and Gadgets. The analysis focuses on how spending patterns vary based on the store setting (type of store location).
+
+The dashboard provides insights into popular product categories among students, spending trends, and the influence of store location on purchase preferences. These insights can help retail stores optimize product placement, marketing strategies, and inventory decisions targeted at student customers.
